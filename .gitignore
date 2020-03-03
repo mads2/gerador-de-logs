@@ -4,6 +4,9 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+### private keys ###
+*.pem
+
 ### STS ###
 .apt_generated
 .classpath
